@@ -1,0 +1,2 @@
+This is a scaled down shell for an EAGLView that has two separate OpenGL ES pipelines.  One for 1.1 and the other for 2.0.
+It is essentially a simplified reworking of sample code from Brad Larson's Advanced iPhone Programming material.
